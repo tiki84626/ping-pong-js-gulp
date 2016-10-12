@@ -38,5 +38,7 @@ build/
 .gradle/
 
 # Dependency directories
-node_modules
+node_modules/
+.DS_Store
 jspm_packages
+bower_components/
